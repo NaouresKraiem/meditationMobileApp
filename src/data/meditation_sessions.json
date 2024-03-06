@@ -1,0 +1,52 @@
+{
+  "sessions": [
+    {
+      "id": 1,
+      "title": "Mindfulness body scan",
+      "description": "Tune into physical sensations to deepen your awareness.",
+      "type": "meditation",
+      "duration": "5 mins",
+      "file": "./assets/audio_file.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Mindfulness walk",
+      "description": "A guided meditation for walking mindfully.",
+      "type": "meditation",
+      "duration": "5 mins",
+      "file": "./assets/audio_file.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Deep Concentration",
+      "description": "A simple yet powerful way to help sharpen your attention.",
+      "type": "meditation",
+      "duration": "10 mins",
+      "file": "./assets/audio_file.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Guided visualisation",
+      "description": "A powerful way to improve confidence and boost performance.",
+      "type": "visualisation",
+      "duration": "10 mins",
+      "file": "./assets/audio_file.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Mental imagery for success",
+      "description": "A guided mental imagery session to work towards success.",
+      "type": "visualisation",
+      "duration": "10 mins",
+      "file": "./assets/audio_file.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Positive self talk",
+      "description": "A simple yet power way to improve self worth.",
+      "type": "self_talk",
+      "duration": "10 mins",
+      "file": "./assets/audio_file.mp3"
+    }
+  ]
+}
